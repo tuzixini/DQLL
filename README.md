@@ -23,7 +23,7 @@ This repo is the official implementation of [paper **Deep Reinforcement Learning
       --DQLL  
         |-- config.py  
         |-- dataset.py  
-        |-- genMyData.py  
+        |-- genMyData.py   
         |-- ...  
     ```
 ---
