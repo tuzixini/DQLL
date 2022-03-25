@@ -1,6 +1,6 @@
 # DQLL
 ---
-This repo is the official implementation of [paper **Deep Reinforcement Learning Based Lane Detection and Localization**](https://www.sciencedirect.com/science/article/abs/pii/S0925231220310833)  
+This repo is the official implementation of [**Deep Reinforcement Learning Based Lane Detection and Localization**](https://www.sciencedirect.com/science/article/abs/pii/S0925231220310833)  
 
 ## Getting Started
 ```$CODEROOT```: the path where you put this code.  
